@@ -7,6 +7,7 @@ try to make the page compatible with most screen sizes (4k, 2k, 1080p don care a
 
 later : 
   try to host the website
+  Start button (after adding engine sounds)
   try to put a money system (for expl : click on a button 100 times to get 100 quid + maybe autoclicker prevention for maximum pain + as a joke dlc/codes that give you more money)
   tuning system (bad tuning makes weird engine noise and maybe a timer -> if you run it too long with bad tuning it explodes)
   
