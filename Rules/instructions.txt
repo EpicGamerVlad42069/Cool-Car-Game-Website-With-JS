@@ -2,7 +2,7 @@ this is what i want the game to do and we can look at it and see how possible it
 In the beginning this is just going to be a dumb little car choice game but i want to try doing tuning as well after (possibly add engine noises)
 
 car png with a choice list on the top left -> you chose parts and it ll appear as a png on the car
-
+try to make the page compatible with most screen sizes (4k, 2k, 1080p don care abt others)
 
 
 later : 
