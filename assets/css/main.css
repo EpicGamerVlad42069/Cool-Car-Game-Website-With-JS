@@ -378,7 +378,7 @@ footer {
 }
 .Discord{
   font-size:24px;
-  color:rgb(168, 0, 0);
+  color:rgb(255, 255, 255);
 }
 
 .hr2{ 
@@ -468,9 +468,41 @@ h2 {
 @import url('https://fonts.googleapis.com/css2?family=Blaka&family=Lato:wght@300&display=swap');
 h5{
   text-align:left;
+  display:inline-flex;
   color:rgb(255, 255, 255);
   font-size:24px;
   font-family: 'Lato', sans-serif;
   margin-left:29px;
   margin-right:65px;
+}
+
+.flexed {
+  display:inline-flex;
+}
+.a {
+  color:rgb(173, 52, 0);
+}
+.b{
+  color:rgb(173, 52, 0);
+}
+
+.c {
+  color:rgb(255, 187, 199);
+}
+.d{
+  color:rgb(255, 187, 199);
+}
+
+.dd{
+  text-align:center;
+  color:rgb(136, 1, 1);
+  font-size:52px;
+  text-align:left;
+  margin-left:71px;
+  margin-bottom:-32px;  
+  font-family: 'Lato', sans-serif;
+  font-weight: bolder;
+  -webkit-text-stroke: 0.5px;
+  -webkit-text-stroke-color: rgb(218, 38, 7);
+
 }
